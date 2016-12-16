@@ -112,4 +112,4 @@ CINRAのエンジニア学習用リポジトリ
 
 ---
 
-- ひながた
+- [ひながた](https://cinra.github.io/the-great-developer/template/)
