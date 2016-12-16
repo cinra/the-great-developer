@@ -11,15 +11,22 @@ CINRAのエンジニア学習用リポジトリ
 
 ---
 
+## 進め方
+
+- ひとりひとりプロジェクト作って、進捗を確認していきましょう
+- 覚えたいと思っている項目を、イシュー化して進めましょう
+
+---
+
 ## 基本編
 
 ### Git
 
 - Gitとは
-- commit
-- pull
-- branch
-- push
+- git commit
+- git pull
+- git branch
+- git push
 
 ### Linux
 
