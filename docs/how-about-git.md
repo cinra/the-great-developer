@@ -12,7 +12,7 @@ Githubから既存のリポジトリをローカルに持ってきて、ファ�
 
 - [ ] 既存のGitリポジトリを取得する（`git clone`）
 	- リポジトリのURL：https://github.com/cinra/git-studies
-- [ ] プロジェクトフォルダに自分の名前のファイルを追加して、リポジトリにPushする
+- [ ] プロジェクトフォルダに自分の名前のテキストファイルを追加して、リポジトリにPushする
     - [ ] `git add {path}`
     - [ ] `git commit`
     - [ ] `git push`
@@ -46,19 +46,59 @@ Gitをはじめとするバージョン管理システムは、過去のソー�
 
 ## 用語
 
-### Git
-
-### リポジトリ
-
 ### Github
+
+Gitリポジトリを管理できるWEBサービス。同種のサービスに、bitbucketなどがある。
+
+- [Github](https://github.com)
+- [Bitbucket](https://bitbucket.org/)
 
 ### `git clone`
 
-### `git commit`
+Gitリポジトリをローカルに複製するためのコマンド
+
+- [リモートリポジトリをクローンする](http://www.backlog.jp/git-guide/intro/intro3_2.html)
 
 ### `git add`
 
+Gitリポジトリにファイルを追加するコマンド。addされていないファイルは、Gitで管理されない。
+
+**例**
+
+```sh
+$ git add README.md
+$ git add .
+```
+
+### `git commit`
+
+ファイルの変更を記録するコマンド。
+
+**例**
+
+```sh
+$ git commit -am 'My First Commit'
+```
+
 ### `git push`
+
+コミットをリモートリポジトリに反映するコマンド。これを行うことで、ファイルがリモートリポジトリにアップロードされる。
+
+**例**
+
+```sh
+$ git push origin master
+```
+
+### `git fetch`
+
+リモートリポジトリの変更を取得するコマンド。
+
+**例**
+
+```sh
+$ git fetch origin # リモートリポジトリの変更がすべてローカルに記録される
+```
 
 ---
 
