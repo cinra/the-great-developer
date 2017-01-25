@@ -30,10 +30,10 @@ CINRAのエンジニア学習用リポジトリ
 
 ### Git
 
-- Gitとは：Gitを使うメリット
+- [Gitとは](https://cinra.github.io/the-great-developer/docs/how-about-git)
 - Gitの一連の動作（git init / clone / commit / fetch / push / pull）
-- ブランチ（branch）とは
-- プルリクエスト（PR）とは
+- ブランチ（branch）
+- プルリクエスト（PR）
 
 ### CUI
 
