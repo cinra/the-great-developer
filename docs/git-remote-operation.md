@@ -28,6 +28,10 @@
 $ git remote add origin git@github.com:{リポジトリ}.git
 ```
 
+### git fetch / pull
+
+`git fetch`コマンドは、リモートの内容をローカルのインデックスに取り込むコマンド。`git pull`は、リモートの内容を取り込んで、カレントブランチにマージするコマンドです。
+
 ---
 
 ## 参考リンク
