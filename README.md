@@ -40,7 +40,7 @@ CINRAのエンジニア学習用リポジトリ
 - Gitの基本的な使い方（担当：濱田）
 	- 1: [git init / add / commit](https://cinra.github.io/the-great-developer/docs/git-basic-operation)
 	- 2: [git push / fetch / pull](https://cinra.github.io/the-great-developer/docs/git-remote-operation)
-- ブランチとプルリクエスト（担当：濱田）
+- [ブランチとプルリクエスト](https://cinra.github.io/the-great-developer/docs/git-branch)（担当：濱田）
 
 ### CUI
 
