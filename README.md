@@ -37,7 +37,10 @@ CINRAのエンジニア学習用リポジトリ
 ### Git
 
 - [Gitとは](https://cinra.github.io/the-great-developer/docs/how-about-git) （担当：濱田）
-- Gitの一連の動作（git init / clone / commit / fetch / push / pull）（担当：濱田）
+- Gitの基本的な使い方（担当：濱田）
+	- 1: git init / add /commit
+	- 2: git config
+	- 3: git push / fetch / pull
 - ブランチ（branch）（担当：濱田）
 - プルリクエスト（PR）（担当：濱田）
 
