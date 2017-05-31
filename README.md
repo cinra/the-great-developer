@@ -44,16 +44,22 @@ CINRAのエンジニア学習用リポジトリ
 
 ### CUI
 
-- 全然こわくない！黒い画面のつかいかた
-- 初歩的なコマンド
-	- ssh
-	- cd / ls / pwd
+- [全然こわくない！黒い画面のつかいかた](/docs/cui-operation)
+- 基礎／汎用
+	- ls / cd / pwd / cat
+    - touch
 	- cp / mv / rm / mkdir
-	- chown / chmod
 	- vi
+- 初級
+    - whoami
+    - sudo
+    - chown / chmod
+    - ssh
+- 中級
 	- grep
+    - scp
 
-### エディタ
+### [エディタ]
 
 - 文字コードとは
 - 改行コードとは
