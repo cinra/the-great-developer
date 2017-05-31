@@ -71,7 +71,7 @@ CINRAのエンジニア学習用リポジトリ
 ### 作業環境構築（初期構築）
 
 - 基本
-- Vagrant
+- [Vagrant](https://cinra.github.io/the-great-developer/docs/basic-vagrant)
 - Docker
 - [タスクランナー](https://cinra.github.io/the-great-developer/docs/init-taskrunner)
 	- Gulp
@@ -79,7 +79,7 @@ CINRAのエンジニア学習用リポジトリ
 
 ### 作業フロー
 
-- [担当範囲](/the-great-developer/docs/flow-assigned-range)  
+- [担当範囲](https://cinra.github.io/the-great-developer/docs/flow-assigned-range)  
 デザイナー、ディレクター、フロントエンドとバックエンドの担当範囲の境界線とは？  
 
 #### ドキュメンテーション
@@ -90,7 +90,7 @@ CINRAのエンジニア学習用リポジトリ
 
 #### Git開発フロー
 
-- [CINRAのGitフロー](/the-great-developer/docs/flow-cinra-git-flow)
+- [CINRAのGitフロー](https://cinra.github.io/the-great-developer/docs/flow-cinra-git-flow)
 	- Gitフロー
 	- Githubフロー
 
@@ -194,9 +194,9 @@ CINRAのエンジニア学習用リポジトリ
 
 ### Javascript（担当：青木）
 
-#### jQuery
+#### [jQuery](https://cinra.github.io/the-great-developer/frontend-jquery)
 
-#### MVx
+#### MVx フレームワーク
 
 ##### React
 
