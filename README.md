@@ -90,7 +90,7 @@ CINRAのエンジニア学習用リポジトリ
 
 #### Git開発フロー
 
-- CINRAのGitフロー
+- [CINRAのGitフロー](/the-great-developer/docs/flow-cinra-git-flow)
 	- Gitフロー
 	- Githubフロー
 
