@@ -72,6 +72,7 @@ CINRAのエンジニア学習用リポジトリ
 
 - 基本
 - [Vagrant](https://cinra.github.io/the-great-developer/docs/basic-vagrant)
+- [Ansible](https://cinra.github.io/the-great-developer/docs/basic-ansible)
 - Docker
 - [タスクランナー](https://cinra.github.io/the-great-developer/docs/init-taskrunner)
 	- Gulp
