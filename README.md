@@ -105,23 +105,23 @@ CINRAのエンジニア学習用リポジトリ
 
 #### 開発者ツール
 
-- Chrome「開発者ツール」の使い方
+- [Chrome「開発者ツール」の使い方](https://cinra.github.io/the-great-developer/docs/basic-browser-developertool)
 - Elementタブ
 - Networkタブ
 - Consoleタブ
 
 #### Cookie / Local Storage
 
-- Cookieとは
-- Local Storageとは
+- [Cookieとは](http://tennensui.sakura.ne.jp/pcrikai/category3/entry22.html)
+- [Local Storageとは](http://wp.tech-style.info/archives/742)
 
-### HTTP
+### [HTTP](https://www.nic.ad.jp/ja/basics/terms/http.html)
 
 #### Log
 
 - ログの重要性
 
-#### Session
+#### [Session](http://web-tan.forum.impressrd.jp/g/%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3)
 
 #### メソッド
 
