@@ -276,9 +276,9 @@ CINRAのエンジニア学習用リポジトリ
 
 ### 基礎
 
-- サーバーについて
+- [サーバーについて](https://eng-entrance.com/web-server-mechanism)
     - 「サーバーは無茶すると落ちる」
-- クラウドとオンプレ
+- [クラウド、Saas、Paas、Iaas、オンプレ](https://www.cloud-ace.jp/report/detail01/)
 - WEBサーバの構成要素
 
 ### Linux
