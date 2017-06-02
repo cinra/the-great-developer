@@ -1,20 +1,23 @@
 # jQuery
 
-javascriptのデファクトスタンダードと呼ばれているライブラリです。
 
+## 課題
 
-## CINRAでの扱い
+- [ ] jQueryとは何をするものかを説明できる
+- [ ] HTMLにjQueryを読み込み、DOMにアクセスして、操作ができる（[練習用ページ](https://jsfiddle.net/8code/9eddnzoa/)）
 
-- 基本はES6ベース、非依存を推奨（したい）
-- 他ライブラリが依存してる場合は巻き込んでも可（現状）
+[このような見た目](https://jsfiddle.net/8code/9eddnzoa/1/)になればOKです。
 
+---
 
-使い方は、既にまとめられているサイトが多々ありますので、参考リンクを参照ください。
-または、目的に沿った単語でGoogle検索すると大体は見つかるかと思います。
+## 解説
+
+jQuery（ジェイクエリー）は、ウェブブラウザ用のJavaScriptコードをより容易に記述できるようにするために設計された軽量なJavaScriptライブラリです。
 
 ---
 
 ## 参考リンク
 
 - [jQueryってなに？超初心者向け入門講座](https://webkikaku.co.jp/blog/webdesign/jquery_start/)
-- [【初心者向け】JavaScript と jQuery を混同しているあなたのために](http://www.mdesign-works.com/blog/web/javascript-jquery/)
+- [jQueryコーディングの基本的なことからプラグイン化までの注意書き（Webデザイン）](http://webdesignrecipes.com/webdesign-jquery-coding/)
+- [ヌー（jQuery日本語リファレンス）](http://semooh.jp/jquery/)
