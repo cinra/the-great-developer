@@ -10,9 +10,9 @@ CSS（カスケーディングスタイルシート）とは、HTMLに装飾を�
 ## 課題
 
 - [ ] CSSとはどのような物かを、何も見ずに簡単に説明ができる
-- [ ] [練習用ページ](https://jsfiddle.net/u9chtba5/2/)に書かれている内容を対応できる
+- [ ] [練習用ページ](https://jsfiddle.net/8code/21L56z6w/1/)に書かれている内容を対応できる
 
-[このような見た目](https://jsfiddle.net/u9chtba5/1/)になっていれば、正解です。
+[このような見た目](https://jsfiddle.net/8code/21L56z6w/)になっていれば、正解です。
 
 ---
 
