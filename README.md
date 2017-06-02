@@ -123,7 +123,7 @@ CINRAのエンジニア学習用リポジトリ
 
 #### [Session](http://web-tan.forum.impressrd.jp/g/%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3)
 
-#### メソッド
+#### [メソッド](http://scene-live.com/page.php?page=27)
 
 - GETメソッド
 - POSTメソッド
@@ -135,13 +135,11 @@ CINRAのエンジニア学習用リポジトリ
 
 ### 基礎
 
-#### HTML(DOM)
+#### [HTML(DOM)](https://cinra.github.io/the-great-developer/docs/frontend-dom)
 
-- DOMとは
+#### [CSS](https://cinra.github.io/the-great-developer/docs/frontend-css)
 
-#### CSS
-
-##### SCSS / Sass
+##### [SCSS / Sass](https://www.tam-tam.co.jp/tipsnote/html_css/post5189.html)
 
 - expand
 - mixin
