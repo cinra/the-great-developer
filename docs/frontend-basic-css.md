@@ -1,4 +1,4 @@
-# CSS
+# Frontend > Basic > CSS
 
 ## 解説
 
