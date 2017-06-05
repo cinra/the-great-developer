@@ -3,10 +3,10 @@
 
 ## 課題
 
-- [ ] jQueryとは何をするものかを説明できる
-- [ ] HTMLにjQueryを読み込み、DOMにアクセスして、操作ができる（[練習用ページ](https://jsfiddle.net/8code/9eddnzoa/)）
+- [ ] jQueryとは何をするものかを何も見ずに説明できる
+- [ ] HTMLにjQueryを読み込み、DOMにアクセスして、操作ができる（[練習用ページ](https://jsfiddle.net/cinra/6f1rumbp/)）
 
-[このような見た目](https://jsfiddle.net/8code/9eddnzoa/1/)になればOKです。
+[このような見た目](https://jsfiddle.net/cinra/6f1rumbp/1/)になればOKです。
 
 ---
 
