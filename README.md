@@ -97,14 +97,16 @@ CINRAのエンジニア学習用リポジトリ
 - [HTML(DOM)](https://cinra.github.io/the-great-developer/docs/frontend-basic-dom)
 - [CSS](https://cinra.github.io/the-great-developer/docs/frontend-basic-css)
 - [Javascript](https://cinra.github.io/the-great-developer/docs/frontend-basic-javascript)
-- [アセット管理](https://cinra.github.io/the-great-developer/docs/frontend-basic-assets)
 - [レイアウト](https://cinra.github.io/the-great-developer/docs/frontend-basic-layout)
+- [アセット管理](https://cinra.github.io/the-great-developer/docs/frontend-basic-assets)
 
 ### タスクランナー
 
 - [タスクランナーとは](https://cinra.github.io/the-great-developer/docs/frontend-taskrunner-about)
     - Gulp
     - Grunt
+- [npm](https://cinra.github.io/the-great-developer/docs/frontend-taskrunner-npm)
+    - パッケージ
 
 ### HTML（HTML5）（担当：大石）
 
@@ -115,7 +117,7 @@ CINRAのエンジニア学習用リポジトリ
 - [Cookieとは](http://tennensui.sakura.ne.jp/pcrikai/category3/entry22.html)
 - [Local Storageとは](http://wp.tech-style.info/archives/742)
 
-### CSS（担当：大石）
+### CSS（CSS3）（担当：大石）
 
 - 命名規則
 - レイアウト整え方の概要
@@ -132,8 +134,16 @@ CINRAのエンジニア学習用リポジトリ
 
 ### Javascript（担当：青木）
 
-- [jQuery](https://cinra.github.io/the-great-developer/docs/frontend-javascript-jquery)
+- [記法](https://cinra.github.io/the-great-developer/docs/frontend-javascript-markup)
+    - ES5, ES6, ES2017
 - ライブラリ
+    - [jQuery](https://cinra.github.io/the-great-developer/docs/frontend-javascript-jquery)
+- altJS
+    - JSX
+    - TypeScript
+    - CoffeeScript
+- [トランスパイラ](https://cinra.github.io/the-great-developer/docs/frontend-javascript-translate)
+    - Babel
 - MVx フレームワーク
     - Vue
     - React
@@ -219,7 +229,10 @@ CINRAのエンジニア学習用リポジトリ
     - 「サーバーは無茶すると落ちる」
 - [クラウド、Saas、Paas、Iaas、オンプレ](https://www.cloud-ace.jp/report/detail01/)
 - ファイヤーウォール
-- TCP/IP
+- [TCP/IP](https://cinra.github.io/the-great-developer/docs/infra-basic-tcpip)
+- DNS
+    - name server → パターンであげとくだけでもいいかもしれない
+        - ドメイン・サブドメイン ( お名前.comの使い方とか )
 - 秘密鍵・公開鍵
 - SSL
 
@@ -230,13 +243,8 @@ CINRAのエンジニア学習用リポジトリ
 
 ### ネットワーク
 
-- プロトコル
-    - [HTTP](https://www.nic.ad.jp/ja/basics/terms/http.html)
 - ネットワークログ
 - [Session](http://web-tan.forum.impressrd.jp/g/%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3)
-- DNS
-    - name server → パターンであげとくだけでもいいかもしれない
-        - ドメイン・サブドメイン ( お名前.comの使い方とか )
 - VPN
 具体的に設定をみてもらう感じでもいいかもしれない( パブリックなので注意 )
 
