@@ -43,7 +43,7 @@ CINRAのエンジニア学習用リポジトリ
 	- 2: [git push / fetch / pull](https://cinra.github.io/the-great-developer/docs/git-remote-operation)
 - [ブランチとプルリクエスト](https://cinra.github.io/the-great-developer/docs/git-branch)（担当：濱田）
 - Git開発フロー
-    - [CINRAのGitフロー](https://cinra.github.io/the-great-developer/docs/flow-cinra-git-flow)
+    - [CINRAのGitフロー](https://cinra.github.io/the-great-developer/docs/basic-git-cinra-git-flow)
     - Gitフロー
     - Githubフロー
     - Wordmoveを使ったWordpressサイトのデプロイ
@@ -58,7 +58,7 @@ CINRAのエンジニア学習用リポジトリ
 
 ### CUI
 
-- [全然こわくない！黒い画面のつかいかた](/the-great-developer/docs/cui-operation)
+- [全然こわくない！黒い画面のつかいかた](https://cinra.github.io/the-great-developer/docs/basic-cui-operation)
 
 <!--
 ### [エディタ]
@@ -71,7 +71,7 @@ CINRAのエンジニア学習用リポジトリ
 
 ### 作業フロー
 
-- [担当範囲（デザイナー、ディレクター、フロントエンドとバックエンドの担当範囲の境界線とは？）](https://cinra.github.io/the-great-developer/docs/flow-assigned-range)
+- [担当範囲（デザイナー、ディレクター、フロントエンドとバックエンドの担当範囲の境界線とは？）](https://cinra.github.io/the-great-developer/docs/basic-flow-assigned-range)
 
 ### ドキュメンテーション
 
@@ -94,59 +94,51 @@ CINRAのエンジニア学習用リポジトリ
 
 ### 基礎
 
-- [HTML(DOM)](https://cinra.github.io/the-great-developer/docs/frontend-dom)
-- [CSS](https://cinra.github.io/the-great-developer/docs/frontend-css)
-- [Javascript]() ES5 / ES6 ( 基礎的・概念的なこと )
-- アセット
-- レイアウト
-    - レスポンシブ
-    - break pointとは
-    - viewport
-    - Retina対応
+- [HTML(DOM)](https://cinra.github.io/the-great-developer/docs/frontend-basic-dom)
+- [CSS](https://cinra.github.io/the-great-developer/docs/frontend-basic-css)
+- [Javascript](https://cinra.github.io/the-great-developer/docs/frontend-basic-javascript)
+- [アセット管理](https://cinra.github.io/the-great-developer/docs/frontend-basic-assets)
+- [レイアウト](https://cinra.github.io/the-great-developer/docs/frontend-basic-layout)
 
 ### タスクランナー
 
-- [タスクランナーとは](https://cinra.github.io/the-great-developer/docs/init-taskrunner)
+- [タスクランナーとは](https://cinra.github.io/the-great-developer/docs/frontend-taskrunner-about)
     - Gulp
     - Grunt
-- タスクランナー利用の凡例
-- アセットの管理
-    - スプライトイメージ
-    - アイコンフォント
 
 ### HTML（HTML5）（担当：大石）
 
-- テンプレートエンジンを使った制作フロー
-- SEOについて
 - 構造化マークアップ
+- SEOについて
 - Meta Tag
+- テンプレートエンジンを使った制作フロー
 - [Cookieとは](http://tennensui.sakura.ne.jp/pcrikai/category3/entry22.html)
 - [Local Storageとは](http://wp.tech-style.info/archives/742)
 
-
 ### CSS（担当：大石）
 
-- [SCSS / Sass](https://www.tam-tam.co.jp/tipsnote/html_css/post5189.html)
+- 命名規則
 - レイアウト整え方の概要
     - floatとtable-cellの使い分けとか
     - レギュレーションが決まったら、別でまとめてリンク貼っとく
 - ブラウザ対応
 - CSSアニメーション
 - SVGアニメーション
-- 命名規則
 - altCSS
+    - [SCSS / Sass](https://www.tam-tam.co.jp/tipsnote/html_css/post5189.html)
 - Objective CSS
-- Objective CSSの概念
 - SMACSS
 - BEM
 
 ### Javascript（担当：青木）
 
-- [jQuery](https://cinra.github.io/the-great-developer/frontend-jquery)
+- [jQuery](https://cinra.github.io/the-great-developer/docs/frontend-javascript-jquery)
+- ライブラリ
 - MVx フレームワーク
-- React
-- Angular
-- Riot
+    - Vue
+    - React
+    - Angular
+    - Riot
 
 ### NodeJS
 - NodeJSの使い方
@@ -222,10 +214,10 @@ CINRAのエンジニア学習用リポジトリ
 ### 基礎
 
 - [サーバーについて](https://eng-entrance.com/web-server-mechanism)
+    - WEBサーバー
+        - 構成要素
     - 「サーバーは無茶すると落ちる」
 - [クラウド、Saas、Paas、Iaas、オンプレ](https://www.cloud-ace.jp/report/detail01/)
-- WEBサーバー
-    - 構成要素
 - ファイヤーウォール
 - TCP/IP
 - 秘密鍵・公開鍵
@@ -269,8 +261,8 @@ CINRAのエンジニア学習用リポジトリ
 
 ### Dev/Ops
 
-- [Vagrant](https://cinra.github.io/the-great-developer/docs/basic-vagrant)
-- [Ansible](https://cinra.github.io/the-great-developer/docs/basic-ansible)
+- [Vagrant](https://cinra.github.io/the-great-developer/docs/infra-devops-vagrant)
+- [Ansible](https://cinra.github.io/the-great-developer/docs/infra-devops-ansible)
 - Docker
     - Dockerとは？
     - 環境構築・動かし方
