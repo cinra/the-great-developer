@@ -7,6 +7,8 @@ JavaScriptとはプロトタイプベースのオブジェクト指向プログ�
 例えば、Google ChromeやNode.js、OperaはGoogleの[V8](https://github.com/v8/v8)を、
 IEは[Chakra](https://github.com/Microsoft/ChakraCore)を使用しています。
 
+標準化団体のECMA Internationalによって、ECMAScript（ECMA-262）として標準化されています。
+
 ※ エンジンとは、JavaScriptを解釈してプログラムを実行するインタプリタの事です。
 
 ---
@@ -22,3 +24,5 @@ IEは[Chakra](https://github.com/Microsoft/ChakraCore)を使用しています�
 ---
 
 ## 参考リンク
+
+- [JavaScript について - MDN](https://developer.mozilla.org/ja/docs/Web/JavaScript/About_JavaScript)

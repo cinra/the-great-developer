@@ -97,8 +97,8 @@ CINRAのエンジニア学習用リポジトリ
 - [HTML(DOM)](https://cinra.github.io/the-great-developer/docs/frontend-basic-dom)
 - [CSS](https://cinra.github.io/the-great-developer/docs/frontend-basic-css)
 - [Javascript](https://cinra.github.io/the-great-developer/docs/frontend-basic-javascript)
-- [レイアウト](https://cinra.github.io/the-great-developer/docs/frontend-basic-layout)
-- [アセット管理](https://cinra.github.io/the-great-developer/docs/frontend-basic-assets)
+- [レイアウトの種類](https://cinra.github.io/the-great-developer/docs/frontend-basic-layout)
+- [アセットの管理](https://cinra.github.io/the-great-developer/docs/frontend-basic-assets)
 
 ### タスクランナー
 
