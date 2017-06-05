@@ -42,6 +42,18 @@ CINRAのエンジニア学習用リポジトリ
 	- 2: [git push / fetch / pull](https://cinra.github.io/the-great-developer/docs/git-remote-operation)
 - [ブランチとプルリクエスト](https://cinra.github.io/the-great-developer/docs/git-branch)（担当：濱田）
 
+#### Git開発フロー
+
+- [CINRAのGitフロー](https://cinra.github.io/the-great-developer/docs/flow-cinra-git-flow)
+    - Gitフロー
+    - Githubフロー
+
+#### デプロイフロー
+
+- デプロイフローとは → 何を解決したらクリア？
+- Gitを使ったデプロイ
+- Wordmoveを使ったWordpressサイトのデプロイ
+
 ### CUI
 
 - [全然こわくない！黒い画面のつかいかた](/the-great-developer/docs/cui-operation)
@@ -89,18 +101,6 @@ CINRAのエンジニア学習用リポジトリ
 - 仕様書
 - ワイヤーフレーム
 
-#### Git開発フロー
-
-- [CINRAのGitフロー](https://cinra.github.io/the-great-developer/docs/flow-cinra-git-flow)
-	- Gitフロー
-	- Githubフロー
-
-#### デプロイフロー
-
-- デプロイフローとは → 何を解決したらクリア？
-- Gitを使ったデプロイ
-- Wordmoveを使ったWordpressサイトのデプロイ
-
 ### ブラウザ
 
 #### 開発者ツール
@@ -139,33 +139,23 @@ CINRAのエンジニア学習用リポジトリ
 
 #### [CSS](https://cinra.github.io/the-great-developer/docs/frontend-css)
 
-##### [SCSS / Sass](https://www.tam-tam.co.jp/tipsnote/html_css/post5189.html)
+#### [Javascript]() ES5 / ES6 ( 基礎的・概念的なこと )
 
-- expand
-- mixin
+#### レイアウト
 
-#### タスクランナー
-
-- NodeJSの使い方
-
-##### タスクランナー利用の凡例
-
-- Sprite
-- アイコンフォントの使い方
-
-#### Javascript
-
-##### jQuery
-
-##### ES5 / ES6 ( 基礎的・概念的なこと )
-
-### レスポンシブ
-
+- レスポンシブ
 - break pointとは
 - viewport
 - Retina対応
 
-### HTML5（担当：大石）
+#### タスクランナー
+
+- NodeJSの使い方
+- タスクランナー利用の凡例
+- Sprite
+- アイコンフォントの使い方
+
+### HTML（HTML5）（担当：大石）
 
 - テンプレートエンジンを使った制作フロー
 - SEOについて
@@ -174,42 +164,34 @@ CINRAのエンジニア学習用リポジトリ
 
 ### CSS（担当：大石）
 
+- [SCSS / Sass](https://www.tam-tam.co.jp/tipsnote/html_css/post5189.html)
 - レイアウト整え方の概要
     - floatとtable-cellの使い分けとか
     - レギュレーションが決まったら、別でまとめてリンク貼っとく
 - ブラウザ対応
 - CSSアニメーション
 - SVGアニメーション
-
-#### altCSS
-
 - 命名規則
-
-#### Objective CSS
-
+- altCSS
+- Objective CSS
 - Objective CSSの概念
 - SMACSS
 - BEM
 
 ### Javascript（担当：青木）
 
-#### [jQuery](https://cinra.github.io/the-great-developer/frontend-jquery)
-
-#### MVx フレームワーク
-
-##### React
-
-##### Angular
-
-##### Riot
-
-#### サーバーサイドレンダリング
+- [jQuery](https://cinra.github.io/the-great-developer/frontend-jquery)
+- MVx フレームワーク
+- React
+- Angular
+- Riot
 
 ### NodeJS
+- サーバーサイドレンダリング
 
 ---
 
-## バックエンド／サーバーサイド （担当：二階）
+## バックエンド（担当：二階）
 
 ### 基礎
 
@@ -229,26 +211,24 @@ CINRAのエンジニア学習用リポジトリ
     - PHPを扱うに当たっての基礎的なこと
     - PHPファイルがブラウザで見れない！とか
 - Composer
+- フレームワーク
+    - FuelPHP
+    - Laravel
+    - CakePHP
 
-#### Wordpress
+### CMS
 
-- コアの説明
-- テーマの作り方
-- プラグイン
-- 設計方法
-- getText・POファイルを使った多言語化
-
-#### FuelPHP
-
-#### Laravel
-
-#### CakePHP
-
-#### EC-Cube
+- Wordpress
+    - コアの説明
+    - テーマの作り方
+    - プラグイン
+    - 設計方法
+    - getText・POファイルを使った多言語化
+- EC-Cube
 
 ---
 
-## データベース／KVS
+## データベース
 
 ### 基礎
 
@@ -270,53 +250,58 @@ CINRAのエンジニア学習用リポジトリ
 
 ---
 
-## インフラ
+## インフラストラクチャー
 
 ### 基礎
 
 - [サーバーについて](https://eng-entrance.com/web-server-mechanism)
     - 「サーバーは無茶すると落ちる」
 - [クラウド、Saas、Paas、Iaas、オンプレ](https://www.cloud-ace.jp/report/detail01/)
-- WEBサーバの構成要素
-
-### Linux
-
-- SSH
-- パーミッション
+- WEBサーバー
+    - 構成要素
 - ファイヤーウォール
-- ユーザー
-- rsync
-- port
 - TCP/IP
 - 秘密鍵・公開鍵
 - SSL
 
-### Docker
+<!--
+- rsync
+- port
+-->
 
-- Dockerとは？
-- 環境構築・動かし方
+### ネットワーク
 
-### DNS
+- DNS
+    - name server → パターンであげとくだけでもいいかもしれない
+        - ドメイン・サブドメイン ( お名前.comの使い方とか )
+- VPN
+具体的に設定をみてもらう感じでもいいかもしれない( パブリックなので注意 )
 
-- name server → パターンであげとくだけでもいいかもしれない
-    - ドメイン・サブドメイン ( お名前.comの使い方とか )
+### サーバーOS
 
-### VPN
-具体的に設定をみてもらう感じでもいいかもしれない  
-( パブリックなので注意 )
+- Linux
 
-### WEBサーバー
+<!-- CUIオペレーションで理解してるはず
+- SSH
+- パーミッション
+- ユーザー
+-->
 
-#### Apache
-- 設定方法
-- モジュール
+### サーバーソフトウェア
+- Apache
+    - 設定方法
+    - モジュール
 
-#### Nginx
-- 設定方法
+- Nginx
+    - 設定方法
 
-### DevOps
+### Dev/Ops
 
-#### Ansible
+- Docker
+    - Dockerとは？
+    - 環境構築・動かし方
+
+- Ansible
 
 ---
 
