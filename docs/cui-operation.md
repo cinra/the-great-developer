@@ -1,5 +1,23 @@
 # CUIの使い方
 
+## 基礎／汎用
+  - ls / cd / pwd / cat
+    - touch
+  - cp / mv / rm / mkdir
+  - vi
+
+## 初級
+    - whoami
+    - sudo
+    - chown / chmod
+    - ssh
+
+## 中級
+  - grep
+    - scp
+
+---
+
 ## 解説
 
 ### CUIって何をするもの？

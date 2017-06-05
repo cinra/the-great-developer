@@ -30,9 +30,15 @@ CINRAのエンジニア学習用リポジトリ
 
 ---
 
+.
+.
+.
+.
+.
+
 ## 基本編
 
-フロントエンド・バックエンド以前に共有しておくべきこと
+範囲問わず、Web／Appエンジニアとして習得しておくべき技術
 
 ### Git
 
@@ -41,35 +47,23 @@ CINRAのエンジニア学習用リポジトリ
 	- 1: [git init / add / commit](https://cinra.github.io/the-great-developer/docs/git-basic-operation)
 	- 2: [git push / fetch / pull](https://cinra.github.io/the-great-developer/docs/git-remote-operation)
 - [ブランチとプルリクエスト](https://cinra.github.io/the-great-developer/docs/git-branch)（担当：濱田）
-
-#### Git開発フロー
-
-- [CINRAのGitフロー](https://cinra.github.io/the-great-developer/docs/flow-cinra-git-flow)
+- Git開発フロー
+    - [CINRAのGitフロー](https://cinra.github.io/the-great-developer/docs/flow-cinra-git-flow)
     - Gitフロー
     - Githubフロー
+    - Wordmoveを使ったWordpressサイトのデプロイ
 
-#### デプロイフロー
+<!-- 大項目として設けずとも良さそうな気がしました
+### デプロイフロー
 
 - デプロイフローとは → 何を解決したらクリア？
 - Gitを使ったデプロイ
 - Wordmoveを使ったWordpressサイトのデプロイ
+-->
 
 ### CUI
 
 - [全然こわくない！黒い画面のつかいかた](/the-great-developer/docs/cui-operation)
-- 基礎／汎用
-	- ls / cd / pwd / cat
-    - touch
-	- cp / mv / rm / mkdir
-	- vi
-- 初級
-    - whoami
-    - sudo
-    - chown / chmod
-    - ssh
-- 中級
-	- grep
-    - scp
 
 <!--
 ### [エディタ]
@@ -80,54 +74,25 @@ CINRAのエンジニア学習用リポジトリ
 - CINRAエンジニアの推奨エディタ
 -->
 
-### 作業環境構築（初期構築）
-
-- 基本
-- [Vagrant](https://cinra.github.io/the-great-developer/docs/basic-vagrant)
-- [Ansible](https://cinra.github.io/the-great-developer/docs/basic-ansible)
-- Docker
-- [タスクランナー](https://cinra.github.io/the-great-developer/docs/init-taskrunner)
-	- Gulp
-	- Grunt
-
 ### 作業フロー
 
 - [担当範囲](https://cinra.github.io/the-great-developer/docs/flow-assigned-range)  
 デザイナー、ディレクター、フロントエンドとバックエンドの担当範囲の境界線とは？  
 
-#### ドキュメンテーション
+### ドキュメンテーション
 
 - 要件定義書
 - 仕様書
 - ワイヤーフレーム
 
-### ブラウザ
-
-#### 開発者ツール
+<!-- 学習時間と重要度を比較して、そこまで必要性が高くないように感じました
+### 開発者ツール
 
 - [Chrome「開発者ツール」の使い方](https://cinra.github.io/the-great-developer/docs/basic-browser-developertool)
 - Elementタブ
 - Networkタブ
 - Consoleタブ
-
-#### Cookie / Local Storage
-
-- [Cookieとは](http://tennensui.sakura.ne.jp/pcrikai/category3/entry22.html)
-- [Local Storageとは](http://wp.tech-style.info/archives/742)
-
-### [HTTP](https://www.nic.ad.jp/ja/basics/terms/http.html)
-
-#### Log
-
-- ログの重要性
-
-#### [Session](http://web-tan.forum.impressrd.jp/g/%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3)
-
-#### [メソッド](http://scene-live.com/page.php?page=27)
-
-- GETメソッド
-- POSTメソッド
-- その他のメソッド
+-->
 
 ---
 
@@ -135,21 +100,20 @@ CINRAのエンジニア学習用リポジトリ
 
 ### 基礎
 
-#### [HTML(DOM)](https://cinra.github.io/the-great-developer/docs/frontend-dom)
+- [HTML(DOM)](https://cinra.github.io/the-great-developer/docs/frontend-dom)
+- [CSS](https://cinra.github.io/the-great-developer/docs/frontend-css)
+- [Javascript]() ES5 / ES6 ( 基礎的・概念的なこと )
+- レイアウト
+    - レスポンシブ
+    - break pointとは
+    - viewport
+    - Retina対応
 
-#### [CSS](https://cinra.github.io/the-great-developer/docs/frontend-css)
+### タスクランナー
 
-#### [Javascript]() ES5 / ES6 ( 基礎的・概念的なこと )
-
-#### レイアウト
-
-- レスポンシブ
-- break pointとは
-- viewport
-- Retina対応
-
-#### タスクランナー
-
+- [タスクランナーとは](https://cinra.github.io/the-great-developer/docs/init-taskrunner)
+    - Gulp
+    - Grunt
 - NodeJSの使い方
 - タスクランナー利用の凡例
 - Sprite
@@ -161,6 +125,9 @@ CINRAのエンジニア学習用リポジトリ
 - SEOについて
 - 構造化マークアップ
 - Meta Tag
+- [Cookieとは](http://tennensui.sakura.ne.jp/pcrikai/category3/entry22.html)
+- [Local Storageとは](http://wp.tech-style.info/archives/742)
+
 
 ### CSS（担当：大石）
 
@@ -210,6 +177,10 @@ CINRAのエンジニア学習用リポジトリ
 - 最低限知っておきたいPHPのこと
     - PHPを扱うに当たっての基礎的なこと
     - PHPファイルがブラウザで見れない！とか
+- [メソッド](http://scene-live.com/page.php?page=27)
+    - GETメソッド
+    - POSTメソッド
+    - その他のメソッド
 - Composer
 - フレームワーク
     - FuelPHP
@@ -271,6 +242,10 @@ CINRAのエンジニア学習用リポジトリ
 
 ### ネットワーク
 
+- プロトコル
+    - [HTTP](https://www.nic.ad.jp/ja/basics/terms/http.html)
+- ネットワークログ
+- [Session](http://web-tan.forum.impressrd.jp/g/%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3)
 - DNS
     - name server → パターンであげとくだけでもいいかもしれない
         - ドメイン・サブドメイン ( お名前.comの使い方とか )
@@ -288,6 +263,7 @@ CINRAのエンジニア学習用リポジトリ
 -->
 
 ### サーバーソフトウェア
+
 - Apache
     - 設定方法
     - モジュール
@@ -297,11 +273,11 @@ CINRAのエンジニア学習用リポジトリ
 
 ### Dev/Ops
 
+- [Vagrant](https://cinra.github.io/the-great-developer/docs/basic-vagrant)
+- [Ansible](https://cinra.github.io/the-great-developer/docs/basic-ansible)
 - Docker
     - Dockerとは？
     - 環境構築・動かし方
-
-- Ansible
 
 ---
 
@@ -323,8 +299,7 @@ CINRAのエンジニア学習用リポジトリ
 
 ### 基礎
 
-#### テストの種類
-
+- テストの種類
 - TDD/E2Eとは？
 
 ### ユニットテストとは
