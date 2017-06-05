@@ -71,8 +71,7 @@ CINRAのエンジニア学習用リポジトリ
 
 ### 作業フロー
 
-- [担当範囲](https://cinra.github.io/the-great-developer/docs/flow-assigned-range)  
-デザイナー、ディレクター、フロントエンドとバックエンドの担当範囲の境界線とは？  
+- [担当範囲（デザイナー、ディレクター、フロントエンドとバックエンドの担当範囲の境界線とは？）](https://cinra.github.io/the-great-developer/docs/flow-assigned-range)
 
 ### ドキュメンテーション
 
@@ -91,13 +90,14 @@ CINRAのエンジニア学習用リポジトリ
 
 ---
 
-## フロントエンド
+## フロントエンド編
 
 ### 基礎
 
 - [HTML(DOM)](https://cinra.github.io/the-great-developer/docs/frontend-dom)
 - [CSS](https://cinra.github.io/the-great-developer/docs/frontend-css)
 - [Javascript]() ES5 / ES6 ( 基礎的・概念的なこと )
+- アセット
 - レイアウト
     - レスポンシブ
     - break pointとは
@@ -109,10 +109,10 @@ CINRAのエンジニア学習用リポジトリ
 - [タスクランナーとは](https://cinra.github.io/the-great-developer/docs/init-taskrunner)
     - Gulp
     - Grunt
-- NodeJSの使い方
 - タスクランナー利用の凡例
-- Sprite
-- アイコンフォントの使い方
+- アセットの管理
+    - スプライトイメージ
+    - アイコンフォント
 
 ### HTML（HTML5）（担当：大石）
 
@@ -149,11 +149,12 @@ CINRAのエンジニア学習用リポジトリ
 - Riot
 
 ### NodeJS
+- NodeJSの使い方
 - サーバーサイドレンダリング
 
 ---
 
-## バックエンド（担当：二階）
+## バックエンド編（担当：二階）
 
 ### 基礎
 
@@ -216,7 +217,7 @@ CINRAのエンジニア学習用リポジトリ
 
 ---
 
-## インフラストラクチャー
+## インフラストラクチャー編
 
 ### 基礎
 
@@ -276,7 +277,7 @@ CINRAのエンジニア学習用リポジトリ
 
 ---
 
-## アプリ（担当：伊藤）
+## アプリ編（担当：伊藤）
 
 ### 基礎
 
@@ -290,7 +291,7 @@ CINRAのエンジニア学習用リポジトリ
 
 ---
 
-## テスト
+## テスト編
 
 ### 基礎
 
@@ -311,7 +312,7 @@ CINRAのエンジニア学習用リポジトリ
 
 ---
 
-## 外部サービス
+## 外部サービス編
 
 ### OAuth2
 
