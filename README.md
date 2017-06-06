@@ -144,7 +144,7 @@ CINRAのエンジニア学習用リポジトリ
     - TypeScript
     - CoffeeScript
 - [トランスパイラ](https://cinra.github.io/the-great-developer/docs/frontend-javascript-translate)
-    - Babel
+    - [Babel](https://cinra.github.io/the-great-developer/docs/frontend-javascript-translate#translate_babel)
 - MVx フレームワーク
     - Vue
     - React
@@ -225,16 +225,21 @@ CINRAのエンジニア学習用リポジトリ
 ### 基礎
 
 - [TCP/IP](https://cinra.github.io/the-great-developer/docs/infra-basic-tcpip)
-- DNS
-    - name server → パターンであげとくだけでもいいかもしれない
-        - ドメイン・サブドメイン ( お名前.comの使い方とか )
-- SSH
-    - パスワード認証
-    - 公開鍵認証
+- [DNS](https://cinra.github.io/the-great-developer/docs/infra-basic-dns)
+    - [ドメイン](https://cinra.github.io/the-great-developer/docs/infra-basic-dns#domain)
+    - [サブドメイン](https://cinra.github.io/the-great-developer/docs/infra-basic-dns#subdomain)
+- [SSH](https://cinra.github.io/the-great-developer/docs/infra-basic-ssh)
+    - [パスワード認証]()
+    - [公開鍵認証]()
 - [セキュリティ]()
-    - ファイヤーウォール
-- [クラウド、Saas、Paas、Iaas、オンプレ](https://www.cloud-ace.jp/report/detail01/)
-- SSL
+    - [ファイヤーウォール]()
+- [サービス](https://www.cloud-ace.jp/report/detail01/)
+    - [クラウド]()
+        - [Saas]()
+        - [Paas]()
+        - [Iaas]()
+    - [オンプレ]()
+- [SSL]()
 
 <!--
 - rsync
