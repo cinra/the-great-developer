@@ -106,7 +106,8 @@ CINRAのエンジニア学習用リポジトリ
     - Gulp
     - Grunt
 - [npm](https://cinra.github.io/the-great-developer/docs/frontend-taskrunner-npm)
-    - パッケージ
+    - [npm scriptsについて](https://cinra.github.io/the-great-developer/docs/frontend-taskrunner-npm#npm_scripts)
+    - [dependenciesについて](https://cinra.github.io/the-great-developer/docs/frontend-taskrunner-npm#npm_dependencies)
 
 ### HTML（HTML5）（担当：大石）
 

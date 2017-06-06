@@ -26,6 +26,7 @@ npmでパッケージをインストールする際、`-D` or `--save`   オプ�
 これは、npmが自動出力した項目ですが、jsonを追記する事で、PATH設定などを独自に付け加える事も可能です。
 上記一部、「スクリプト」と「devDependencies／dependencies」については、少し補足します。
 
+<a name="npm_scripts"></a>
 ### スクリプトについて（npm scripts）
 
 ここには、任意でshellコマンドを定義します。
@@ -34,6 +35,7 @@ npmでパッケージをインストールする際、`-D` or `--save`   オプ�
 ここで定義したコマンドは、`$ npm run [コマンド名]`で実行可能です。
 用途としては、タスクランナーを使用せずにNode.js及びjsで何かしら開発する時に使います。
 
+<a name="npm_dependencies"></a>
 ### インストールパッケージの記録方法について（*dependencies）
 
 package.jsonを開くとデフォルトで、以下の２項目が用意されているはずです。
