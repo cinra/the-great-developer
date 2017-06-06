@@ -223,17 +223,16 @@ CINRAのエンジニア学習用リポジトリ
 
 ### 基礎
 
-- [サーバーについて](https://eng-entrance.com/web-server-mechanism)
-    - WEBサーバー
-        - 構成要素
-    - 「サーバーは無茶すると落ちる」
-- [クラウド、Saas、Paas、Iaas、オンプレ](https://www.cloud-ace.jp/report/detail01/)
-- ファイヤーウォール
 - [TCP/IP](https://cinra.github.io/the-great-developer/docs/infra-basic-tcpip)
 - DNS
     - name server → パターンであげとくだけでもいいかもしれない
         - ドメイン・サブドメイン ( お名前.comの使い方とか )
-- 秘密鍵・公開鍵
+- SSH
+    - パスワード認証
+    - 公開鍵認証
+- [セキュリティ]()
+    - ファイヤーウォール
+- [クラウド、Saas、Paas、Iaas、オンプレ](https://www.cloud-ace.jp/report/detail01/)
 - SSL
 
 <!--
@@ -250,6 +249,10 @@ CINRAのエンジニア学習用リポジトリ
 
 ### サーバーOS
 
+- [サーバーとは](https://eng-entrance.com/web-server-mechanism)
+    - WEBサーバー
+        - 構成要素
+    - 「サーバーは無茶すると落ちる」
 - Linux
 
 <!-- CUIオペレーションで理解してるはず
