@@ -1,5 +1,13 @@
 # Frontend > Basic > Javascript
 
+## 課題
+
+- [ ] Javascriptについて、どのようなものかを理解していて簡単に説明ができるようにする
+
+---
+
+## 解説
+
 JavaScriptとはプロトタイプベースのオブジェクト指向プログラミング言語の事です。
 「Java」と名前が似ていますが、別物です。
 
@@ -10,16 +18,6 @@ IEは[Chakra](https://github.com/Microsoft/ChakraCore)を使用しています�
 標準化団体のECMA Internationalによって、ECMAScript（ECMA-262）として標準化されています。
 
 ※ エンジンとは、JavaScriptを解釈してプログラムを実行するインタプリタの事です。
-
----
-
-## 課題
-
-- [ ] Javascriptについて、どのようなものかを理解していて簡単に説明ができる
-
----
-
-## 解説
 
 ---
 

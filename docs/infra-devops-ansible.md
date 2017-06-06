@@ -15,13 +15,13 @@ VagrantのみではOSが立ち上がるのみで、まだ「Webサーバー」�
 
 ### 基本
 
-- [ ] Ansibleが持つ機能と基本的な構成が頭に入っており、簡単に説明ができる
-- [ ] project-templateの既存構成を使って、Ansible単体でplaybookを走らせる事ができる
+- [ ] Ansibleが持つ機能と基本的な構成を頭に入れ、簡単に説明ができるようにする
+- [ ] project-templateの既存構成を使って、Ansible単体でplaybookを走らせる
 
 ### 発展
 
-- [ ] Ansibleのroleを書くことができる（処理内容は不問で、簡単であれ複雑であれ動くモノが組めればOKです）
-- [ ] Ansibleを一通り構築できる
+- [ ] apacheのroleを書く
+- [ ] apacheをインストールするplaybookを書く（実行対象はどのマシンでも構いません）
 
 ---
 
