@@ -226,8 +226,6 @@ CINRAのエンジニア学習用リポジトリ
 
 - [TCP/IP](https://cinra.github.io/the-great-developer/docs/infra-basic-tcpip)
 - [DNS](https://cinra.github.io/the-great-developer/docs/infra-basic-dns)
-    - [ドメイン](https://cinra.github.io/the-great-developer/docs/infra-basic-dns#domain)
-    - [サブドメイン](https://cinra.github.io/the-great-developer/docs/infra-basic-dns#subdomain)
 - [SSH](https://cinra.github.io/the-great-developer/docs/infra-basic-ssh)
     - [パスワード認証]()
     - [公開鍵認証]()
@@ -240,6 +238,7 @@ CINRAのエンジニア学習用リポジトリ
         - [Iaas](https://cinra.github.io/the-great-developer/docs/infra-basic-service#infra_iaas)
     - [オンプレ](https://cinra.github.io/the-great-developer/docs/infra-basic-service#infra_onpre)
 - [SSL]()
+
 
 <!--
 - rsync
