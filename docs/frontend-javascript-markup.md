@@ -13,7 +13,7 @@
 
 以下、対応する学習用ページを開いて進めてください。
 
-<a name="frontend_javascript_markup_notation"></a>
+<a name="notation"></a>
 ### 基本的な記法を覚える
 
 #### コメント行
@@ -58,7 +58,7 @@ JSのデータ型は、大きく分けて2つあります。1つは「プリミ�
 
 がこれに該当します。
 
-<a name="frontend_javascript_markup_library"></a>
+<a name="library"></a>
 ### ライブラリを読み込んで使う
 
 ライブラリとは、ある一定の機能をパッケージにしたものです。
@@ -67,7 +67,7 @@ JSのデータ型は、大きく分けて2つあります。1つは「プリミ�
 jQueryとは、Javascriptの機能を簡単に使えるよう作られたライブラリです。
 （便利ですが、あまり依存し過ぎないようにしましょう）
 
-<a name="frontend_javascript_markup_es6"></a>
+<a name="es6"></a>
 ### ES6で書いてみる
 
 #### let
