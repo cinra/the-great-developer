@@ -136,8 +136,8 @@ CINRAのエンジニア学習用リポジトリ
 ### Javascript（担当：青木）
 
 - [基礎](https://cinra.github.io/the-great-developer/docs/frontend-javascript-markup)
-    - 記法(https://cinra.github.io/the-great-developer/docs/frontend-javascript-markup#frontend_javascript_markup_notation)
-    - ES6(https://cinra.github.io/the-great-developer/docs/frontend-javascript-markup#frontend_javascript_markup_es6)
+    - [記法](https://cinra.github.io/the-great-developer/docs/frontend-javascript-markup#frontend_javascript_markup_notation)
+    - [ES6](https://cinra.github.io/the-great-developer/docs/frontend-javascript-markup#frontend_javascript_markup_es6)
 - [ライブラリ](https://cinra.github.io/the-great-developer/docs/frontend-javascript-markup#frontend_javascript_markup_library)
     - [jQuery](https://cinra.github.io/the-great-developer/docs/frontend-javascript-jquery)
 - altJS
