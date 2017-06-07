@@ -54,5 +54,5 @@ GCEやAWSのEC2などがこれに該当します。
 
 ## 参考リンク
 
-- [](https://boxil.jp/others/a612#612-1)
-- [](https://www.cloud-ace.jp/report/detail01/)
+- [SaaS PaaS IaaSとは？クラウドサービスを徹底解説！ - BOXIL](https://boxil.jp/others/a612#612-1)
+- [知っておきたいIaaS、PaaS、SaaSの違い - Cloud Ace](https://www.cloud-ace.jp/report/detail01/)
