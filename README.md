@@ -140,9 +140,9 @@ CINRAのエンジニア学習用リポジトリ
     - [ES6](https://cinra.github.io/the-great-developer/docs/frontend-javascript-markup#es6)
 - [ライブラリ](https://cinra.github.io/the-great-developer/docs/frontend-javascript-markup#library)
     - [jQuery](https://cinra.github.io/the-great-developer/docs/frontend-javascript-jquery)
-- altJS
-    - JSX
+- [altJS](https://cinra.github.io/the-great-developer/docs/frontend-javascript-altjs)
     - TypeScript
+    - JSX
     - CoffeeScript
 - [トランスパイラ](https://cinra.github.io/the-great-developer/docs/frontend-javascript-translate)
     - [Babel](https://cinra.github.io/the-great-developer/docs/frontend-javascript-translate#translate_babel)
