@@ -141,9 +141,9 @@ CINRAのエンジニア学習用リポジトリ
 - [ライブラリ](https://cinra.github.io/the-great-developer/docs/frontend-javascript-markup#library)
     - [jQuery](https://cinra.github.io/the-great-developer/docs/frontend-javascript-jquery)
 - [altJS](https://cinra.github.io/the-great-developer/docs/frontend-javascript-altjs)
-    - TypeScript
-    - JSX
-    - CoffeeScript
+    - [TypeScript](https://cinra.github.io/the-great-developer/docs/frontend-javascript-altjs#typescript)
+    - [JSX](https://cinra.github.io/the-great-developer/docs/frontend-javascript-altjs#jsx)
+    - [CoffeeScript](https://cinra.github.io/the-great-developer/docs/frontend-javascript-altjs#coffeescript)
 - [トランスパイラ](https://cinra.github.io/the-great-developer/docs/frontend-javascript-translate)
     - [Babel](https://cinra.github.io/the-great-developer/docs/frontend-javascript-translate#translate_babel)
 - MVx フレームワーク
