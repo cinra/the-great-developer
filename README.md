@@ -254,7 +254,7 @@ CINRAのエンジニア学習用リポジトリ
 
 ### サーバーOS
 
-- [サーバーとは](https://eng-entrance.com/web-server-mechanism)
+- [サーバーとは](https://cinra.github.io/the-great-developer/docs/infra-serveros-about)
     - WEBサーバー
         - 構成要素
     - 「サーバーは無茶すると落ちる」
