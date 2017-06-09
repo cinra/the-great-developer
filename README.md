@@ -153,7 +153,7 @@ CINRAのエンジニア学習用リポジトリ
     - [Angular](https://cinra.github.io/the-great-developer/docs/frontend-framework#angular)
 
 ### NodeJS
-- NodeJSの使い方
+- [NodeJSの使い方](https://cinra.github.io/the-great-developer/docs/frontend-nodejs)
 - サーバーサイドレンダリング
 
 ---
