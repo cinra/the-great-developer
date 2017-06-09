@@ -248,10 +248,9 @@ CINRAのエンジニア学習用リポジトリ
 
 ### ネットワーク
 
-- VPN
-具体的に設定をみてもらう感じでもいいかもしれない( パブリックなので注意 )
+- [VPN](https://cinra.github.io/the-great-developer/docs/infra-network-vpn)
 - ネットワークログ
-- [Session](http://web-tan.forum.impressrd.jp/g/%E3%82%BB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3)
+- [Session](https://cinra.github.io/the-great-developer/docs/infra-network-session)
 
 ### サーバーOS
 
