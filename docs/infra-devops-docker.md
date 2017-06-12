@@ -34,7 +34,7 @@
 
 Dockerのホストマシンを作成します。
 `--driver`オプションには基本的に`virtualbox`を指定します。
-`[name]`部分は、任意で名前を付けます。
+`[name]`部分は、任意で名前を付けます（指定しないと`default`になります）。
 
 ```
 $ docker-machine create --driver virtualbox [name]
@@ -47,7 +47,7 @@ $ docker-machine create --driver virtualbox [name]
 
 ### 環境変数を定義する
 
-`[name]`はcreateで定義したネームに置き換えます。
+`[name]`はcreateで定義したネームに置き換えます（指定しないと`default`になります）。
 
 ```
 eval $(docker-machine env [name])
