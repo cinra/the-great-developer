@@ -88,6 +88,12 @@ CINRAのエンジニア学習用リポジトリ
 - Consoleタブ
 -->
 
+### 開発手法
+
+- [ソフトウェア開発手法とは](https://cinra.github.io/the-great-developer/docs/basic-dev-methods)
+    - [スクラム](https://cinra.github.io/the-great-developer/docs/basic-dev-methods#scrum)
+    - [アジャイル](https://cinra.github.io/the-great-developer/docs/basic-dev-methods#agile)
+
 ---
 
 ## フロントエンド編
