@@ -14,8 +14,8 @@
 
 コチラの記事に分かりやすく書かれています。
 
-[テストの種類と技法](http://qiita.com/ktarow/items/8c3d94d6c21a0c86b799)
-[ユニットテストって何?って人向けのmochaとchaiの使い方](http://qiita.com/y_hokkey/items/f73ea6b3d5f6902396b6)
+- [テストの種類と技法](http://qiita.com/ktarow/items/8c3d94d6c21a0c86b799)
+- [ユニットテストって何?って人向けのmochaとchaiの使い方](http://qiita.com/y_hokkey/items/f73ea6b3d5f6902396b6)
 
 ### ユニットテスト
 
