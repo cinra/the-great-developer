@@ -225,7 +225,7 @@ CINRAのエンジニア学習用リポジトリ
 
 ### 基礎
 
-- [TCP/IP](https://cinra.github.io/the-great-developer/docs/infra-basic-tcpip)
+- TCP/IP
 - [DNS](https://cinra.github.io/the-great-developer/docs/infra-basic-dns)
 - [SSH](https://cinra.github.io/the-great-developer/docs/infra-basic-ssh)
     - [パスワード認証](https://cinra.github.io/the-great-developer/docs/infra-basic-ssh#infra_ssh_password)
@@ -233,10 +233,10 @@ CINRAのエンジニア学習用リポジトリ
 - [セキュリティ](https://cinra.github.io/the-great-developer/docs/infra-basic-security)
     - [ファイヤーウォール](https://cinra.github.io/the-great-developer/docs/infra-basic-security#infra_security_firewall)
 - [サービス](https://cinra.github.io/the-great-developer/docs/infra-basic-service)
+    - [Saas](https://cinra.github.io/the-great-developer/docs/infra-basic-service#infra_saas)
+    - [Paas](https://cinra.github.io/the-great-developer/docs/infra-basic-service#infra_paas)
+    - [Iaas](https://cinra.github.io/the-great-developer/docs/infra-basic-service#infra_iaas)
     - [クラウド](https://cinra.github.io/the-great-developer/docs/infra-basic-service#infra_cloud)
-        - [Saas](https://cinra.github.io/the-great-developer/docs/infra-basic-service#infra_saas)
-        - [Paas](https://cinra.github.io/the-great-developer/docs/infra-basic-service#infra_paas)
-        - [Iaas](https://cinra.github.io/the-great-developer/docs/infra-basic-service#infra_iaas)
     - [オンプレ](https://cinra.github.io/the-great-developer/docs/infra-basic-service#infra_onpre)
 - [SSL]()
 
