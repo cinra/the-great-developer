@@ -324,6 +324,9 @@ CINRAのエンジニア学習用リポジトリ
 
 ### OAuth2
 
+- [OAuthとは。OAuthで出来ること](https://cinra.github.io/the-great-developer/docs/external-service-oauth#about)
+- [OAuthの仕組み](https://cinra.github.io/the-great-developer/docs/external-service-oauth#howitworks)
+
 ### Google
 
 - Google Maps API
