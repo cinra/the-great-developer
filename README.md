@@ -268,11 +268,13 @@ CINRAのエンジニア学習用リポジトリ
 
 ### サーバーソフトウェア
 
-- Apache
+- [サーバーソフトウェアとは](https://cinra.github.io/the-great-developer/docs/infra-server-software)
+
+- [Apache](https://cinra.github.io/the-great-developer/docs/infra-server-software#apache)
     - 設定方法
     - モジュール
 
-- Nginx
+- [Nginx](https://cinra.github.io/the-great-developer/docs/infra-server-software#nginx)
     - 設定方法
 
 ### Dev/Ops
